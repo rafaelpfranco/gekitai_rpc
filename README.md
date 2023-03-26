@@ -2,9 +2,10 @@
 
 ## Execução
 
-Entre na pasta Server e execute a seguinte linha de código:
+Entre na pasta GrpcGreeter e execute a seguinte linha de código:
 
 ```bash
-  node index.js 
+  dotnet run 
 ```
-Após iniciado o servidor basta voltar para basta anterior e clicar no arquivo gekitai.exe
+Após iniciado o servidor basta voltar para pasta raiz e executar duas vezes o arquivo gekitai.exe.
+Quando o jogo finalizar refaça os passos acima para jogar novamente.
